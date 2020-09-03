@@ -1,5 +1,5 @@
 /*
- * @author Ron
+ * @author Ron & Owen
  * This program will calculate the intrest of a loan
  * over the course of a year at X percent intrest
  */
